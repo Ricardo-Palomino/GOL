@@ -1,9 +1,12 @@
 Página Web sobre la película Gol (2005)
+
 Descripción
+
 Este proyecto es una página web dedicada a la película Gol (2005), un drama deportivo que sigue la historia de un joven futbolista llamado Santiago Muñez, quien busca cumplir su sueño de convertirse en jugador profesional en Inglaterra. La web incluye información sobre la película, el elenco, premios y enlaces a fuentes externas, además de una galería de imágenes y el tráiler oficial.
 
 Estructura del Proyecto
 La página está construida utilizando HTML5 y es completamente estática. La estructura del documento está dividida en varias secciones, cada una con un propósito específico:
+
 
 1. Encabezado (<header>)
 Título de la página con el nombre de la película.
@@ -92,6 +95,7 @@ Stephen Dillane como Erik Dornhelm
 
 Autor
 Este proyecto fue realizado por Ricardo Palomino.
+
 
 Licencia
 Este proyecto es de uso personal y educativo. No se permite el uso comercial sin autorización expresa.
